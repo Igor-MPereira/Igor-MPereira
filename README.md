@@ -7,4 +7,4 @@
  Currently focused on pushing my JavaScript skills to the limit, and intending to learn C and more about data structures and memory management
 
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-MPereira&layout=compact)](https://github.com/Igor-MPereira/Igor-MPereira)
- [![GH Stats](https://github.com/Igor-MPereira/Igor-MPereira)](https://github.com/Igor-MPereira/Igor-MPereira)
+ [[GH Stats](https://github.com/Igor-MPereira/Igor-MPereira)](https://github.com/Igor-MPereira/Igor-MPereira)
