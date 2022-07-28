@@ -1,5 +1,4 @@
 ## Hello! I'm Igor, Welcome To My GitHub Profile.
-#### *Sorry for the mess, not the best on keeping stuff organized.*
 
 ## My main languages are *JavaScript (TypeScript, React, NodeJS)* and *C# (ASP.NET)*.
 #### I mostly work with Web Development, and have been learning and working with programming since 2019.
